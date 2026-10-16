@@ -19,7 +19,7 @@ header {
 }
 
 .highlight {
-  color: #f97316;
+  color: lab(89.71% -33.51 5.99);
 }
 
 nav {
